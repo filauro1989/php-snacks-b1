@@ -1,7 +1,3 @@
-<?php 
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +9,11 @@
 </head>
 <body>
     
-    <div id="app"></div>
+    <div id="app">
+
+
+
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
