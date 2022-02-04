@@ -4,6 +4,6 @@
     header('Content-Type: application/json');
     echo json_encode([
         'results' => $autoUsate,
-        'length' => count($autoUsate)
+        'length' => count($autoUsate),
     ]);
 ?>
